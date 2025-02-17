@@ -1,19 +1,23 @@
----
-layout: null
----
-
-html {
-  font-size: 100%
+/* Change the background color */
+body {
+    background-color: #FFE8A3; /* Light gray background */
+    color: #333; /* Dark text */
+    font-family: Arial, sans-serif;
 }
 
-body {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 1.125rem;
-  color: {{ site.text-col | default: "#404040" }};
-  position: relative;
-  background-color: {{ site.page-col | default: "#FFE8A3" }};
-  {% if site.page-img %}
-  background-image: url({{ site.page-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
+/* Center the content */
+.main-content {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Style links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
