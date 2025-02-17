@@ -25,7 +25,7 @@ You can enable or disable access to this information at any time, through your d
 
 This App does not automatically collect, share nor retain any information.
 
-### Data Security
+## Data Security
 
 We take appropriate security measures to protect your data from unauthorized access, alteration, or disclosure. However, no method of transmission over the internet is 100% secure.
 
