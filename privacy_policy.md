@@ -1,3 +1,15 @@
+---
+title: Privacy Policy
+layout: default
+---
+
+<style>
+    body {
+        background-color: #FFE8A3; /* Example background color */
+        font-family: 'Press Start 2P'; /* Example font */
+    }
+</style>
+
 # Privacy Policy
 
 Last updated: February 17, 2025
