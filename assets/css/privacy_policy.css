@@ -5,6 +5,7 @@
 body {
     background-color: #FFE8A3; 
     color: #401B01; /* Dark text */
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Press Start 2P';
     font-size: 10px;
+    text-align: left;
 }
