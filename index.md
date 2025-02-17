@@ -5,7 +5,8 @@ layout: default
 <link rel="stylesheet" href="style.css">
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fe830f3c-6f6f-4b79-9ed1-fcb3a4493b0e">
+  <img src="https://github.com/user-attachments/assets/d8e94048-9033-4a8f-b979-98300b2bad2d">
+
 </p>
 
 Ever wondered what your cat is feeling? 
