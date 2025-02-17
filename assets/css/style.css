@@ -11,10 +11,12 @@ body {
 }
 
 p img {
-    margin-bottom: -10px; /* Moves text closer to the image */
     display: block;
+    margin: 0 auto;
+    padding-bottom: 0px;
+    margin-bottom: -10px; /* Moves text closer */
 }
 
 p {
-    margin-top: 5px; /* Adjusts the spacing above the text */
+    margin-top: -10px; /* Pulls text closer to the image */
 }
