@@ -3,7 +3,7 @@ title: Privacy Policy
 layout: default
 ---
 
-<link rel="stylesheet" href="privacy_policy.css">
+<link rel="stylesheet" href="assets/css/privacy_policy.css">
 
 # Privacy Policy
 
