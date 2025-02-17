@@ -13,10 +13,5 @@ body {
 p img {
     display: block;
     margin: 0 auto;
-    padding-bottom: 0px;
-    margin-bottom: -10px; /* Moves text closer */
-}
-
-p {
-    margin-top: -10px; /* Pulls text closer to the image */
+    padding-bottom: 5px;
 }
