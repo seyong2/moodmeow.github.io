@@ -1,3 +1,10 @@
+---
+title: Privacy Policy
+layout: default
+---
+
+<link rel="stylesheet" href="privacy_policy.css">
+
 # Privacy Policy
 
 Last updated: February 17, 2025
