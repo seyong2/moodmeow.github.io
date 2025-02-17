@@ -3,16 +3,27 @@
 
 /* Change the background color */
 body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    min-height: 100vh; 
     background-color: #FFE8A3; 
-    color: #333; /* Dark text */
+    color: #401B01; /* Dark text */
     font-family: 'Press Start 2P', cursive;
     text-align: center;
-    font-size: 16px;
+    font-size: 10px;
 }
 
+img {
+    max-width: 100%; /* Responsive image */
+    height: auto;
+}
+/*
 p img {
     display: block;
     margin: 0 auto;
     padding-top: 20px;
     padding-bottom: 5px;
 }
+*/
