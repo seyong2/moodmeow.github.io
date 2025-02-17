@@ -9,5 +9,7 @@ layout: default
 </p>
 
 Ever wondered what your cat is feeling? 
+
 MoodMeow uses AI to analyze your cat’s facial expressions and reveal their mood! 
+
 Just snap a photo or upload one, and let the app do the magic.
