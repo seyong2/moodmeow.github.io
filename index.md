@@ -1,6 +1,6 @@
 ---
 title: MoodMeow
-layout: default
+layout: home
 ---
 
 <p align="center">
