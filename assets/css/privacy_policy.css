@@ -1,0 +1,10 @@
+/* Import the Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/* Change the background color */
+body {
+    background-color: #FFE8A3; 
+    color: #401B01; /* Dark text */
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+}
