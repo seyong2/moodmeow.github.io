@@ -15,4 +15,9 @@ MoodMeow uses AI to analyze your cat’s facial expressions and reveal their moo
 
 Just snap a photo or upload one, and let the app do the magic.
 
+<p align='center'>
+  Coming soon on 
+  <img src="https://github.com/user-attachments/assets/8a9b83d6-9f5e-434e-b118-012c8e9f4087" width=93 height=21>
+</p>
+
 [Privacy Policy](privacy_policy.md)
