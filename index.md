@@ -20,4 +20,6 @@ Just snap a photo or upload one, and let the app do the magic.
   <img src="https://github.com/user-attachments/assets/8a9b83d6-9f5e-434e-b118-012c8e9f4087" width=93 height=21>
 </p>
 
+Follw [@moodmeow.ai](https://www.instagram.com/moodmeow.ai?igsh=djZsZHRod25nb3Qz) on Instagram to learn more about the app while we get things ready! 🐱✨
+
 [Privacy Policy](privacy_policy.md)
