@@ -4,8 +4,8 @@ layout: default
 ---
 <link rel="stylesheet" href="style.css">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d8e94048-9033-4a8f-b979-98300b2bad2d" width=224 height=224>
+<p style = "text-align: center">
+  <img src="https://github.com/user-attachments/assets/d8e94048-9033-4a8f-b979-98300b2bad2d" width=224 height=224, style="padding: 10px">
 
 </p>
 
